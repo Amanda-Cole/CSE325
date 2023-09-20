@@ -1,0 +1,7 @@
+C:\Users\amand\source\repos\CSE325\Programs\MyFirstConsoleApplication\bin\Debug\MyFirstConsoleApplication.exe.config
+C:\Users\amand\source\repos\CSE325\Programs\MyFirstConsoleApplication\bin\Debug\MyFirstConsoleApplication.exe
+C:\Users\amand\source\repos\CSE325\Programs\MyFirstConsoleApplication\bin\Debug\MyFirstConsoleApplication.pdb
+C:\Users\amand\source\repos\CSE325\Programs\MyFirstConsoleApplication\obj\Debug\MyFirstConsoleApplication.csproj.AssemblyReference.cache
+C:\Users\amand\source\repos\CSE325\Programs\MyFirstConsoleApplication\obj\Debug\MyFirstConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\amand\source\repos\CSE325\Programs\MyFirstConsoleApplication\obj\Debug\MyFirstConsoleApplication.exe
+C:\Users\amand\source\repos\CSE325\Programs\MyFirstConsoleApplication\obj\Debug\MyFirstConsoleApplication.pdb

@@ -1,0 +1,14 @@
+C:\Users\amand\source\repos\CSE325\PracticeBankAccount\classes\bin\Debug\net7.0\classes.exe
+C:\Users\amand\source\repos\CSE325\PracticeBankAccount\classes\bin\Debug\net7.0\classes.deps.json
+C:\Users\amand\source\repos\CSE325\PracticeBankAccount\classes\bin\Debug\net7.0\classes.runtimeconfig.json
+C:\Users\amand\source\repos\CSE325\PracticeBankAccount\classes\bin\Debug\net7.0\classes.dll
+C:\Users\amand\source\repos\CSE325\PracticeBankAccount\classes\bin\Debug\net7.0\classes.pdb
+C:\Users\amand\source\repos\CSE325\PracticeBankAccount\classes\obj\Debug\net7.0\classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amand\source\repos\CSE325\PracticeBankAccount\classes\obj\Debug\net7.0\classes.AssemblyInfoInputs.cache
+C:\Users\amand\source\repos\CSE325\PracticeBankAccount\classes\obj\Debug\net7.0\classes.AssemblyInfo.cs
+C:\Users\amand\source\repos\CSE325\PracticeBankAccount\classes\obj\Debug\net7.0\classes.csproj.CoreCompileInputs.cache
+C:\Users\amand\source\repos\CSE325\PracticeBankAccount\classes\obj\Debug\net7.0\classes.dll
+C:\Users\amand\source\repos\CSE325\PracticeBankAccount\classes\obj\Debug\net7.0\refint\classes.dll
+C:\Users\amand\source\repos\CSE325\PracticeBankAccount\classes\obj\Debug\net7.0\classes.pdb
+C:\Users\amand\source\repos\CSE325\PracticeBankAccount\classes\obj\Debug\net7.0\classes.genruntimeconfig.cache
+C:\Users\amand\source\repos\CSE325\PracticeBankAccount\classes\obj\Debug\net7.0\ref\classes.dll
