@@ -1,0 +1,14 @@
+C:\Users\amand\source\repos\CSE325\MegaDesk\MegaDesk\bin\Debug\MegaDesk.exe.config
+C:\Users\amand\source\repos\CSE325\MegaDesk\MegaDesk\bin\Debug\MegaDesk.exe
+C:\Users\amand\source\repos\CSE325\MegaDesk\MegaDesk\bin\Debug\MegaDesk.pdb
+C:\Users\amand\source\repos\CSE325\MegaDesk\MegaDesk\obj\Debug\MegaDesk.csproj.AssemblyReference.cache
+C:\Users\amand\source\repos\CSE325\MegaDesk\MegaDesk\obj\Debug\MegaDesk.AddNewQuote.resources
+C:\Users\amand\source\repos\CSE325\MegaDesk\MegaDesk\obj\Debug\MegaDesk.DisplayQuotes.resources
+C:\Users\amand\source\repos\CSE325\MegaDesk\MegaDesk\obj\Debug\MegaDesk.MainMenuForm.resources
+C:\Users\amand\source\repos\CSE325\MegaDesk\MegaDesk\obj\Debug\MegaDesk.Properties.Resources.resources
+C:\Users\amand\source\repos\CSE325\MegaDesk\MegaDesk\obj\Debug\MegaDesk.ViewQuotesForm.resources
+C:\Users\amand\source\repos\CSE325\MegaDesk\MegaDesk\obj\Debug\MegaDesk.csproj.GenerateResource.cache
+C:\Users\amand\source\repos\CSE325\MegaDesk\MegaDesk\obj\Debug\MegaDesk.csproj.CoreCompileInputs.cache
+C:\Users\amand\source\repos\CSE325\MegaDesk\MegaDesk\obj\Debug\MegaDesk.exe
+C:\Users\amand\source\repos\CSE325\MegaDesk\MegaDesk\obj\Debug\MegaDesk.pdb
+C:\Users\amand\source\repos\CSE325\MegaDesk\MegaDesk\obj\Debug\MegaDesk.SearchQuoteForm.resources
